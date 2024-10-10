@@ -1,0 +1,10 @@
+export { default as StudentDashboard } from './dashboard/StudentDashboard';
+export { default as Chat } from './messaging/Chat';
+export { default as ClassSchedule } from './classes/ClassSchedule';
+export { default as SharedLibrary } from './resources/SharedLibrary';
+export { default as Courses } from './courses/Courses';
+export { default as CourseActivities } from './courses/CourseActivities';
+export { default as Recordings } from './classes/Recordings';
+export { default as ViewRecording } from './classes/ViewRecording';
+export { default as RecordingPlans } from './classes/RecordingPlans';
+export { default as WhiteBoard } from './classes/WhiteBoard';

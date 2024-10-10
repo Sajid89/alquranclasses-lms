@@ -1,0 +1,15 @@
+export { default as Dashboard } from './dashboard/TeacherDashboard';
+export { default as ClassSchedule } from './classes/ClassSchedule';
+export { default as MakeupRequests } from './classes/MakeupRequests';
+export { default as ClassesReport } from './classes/ClassesReport';
+export { default as ProgressReport } from './classes/ProgressReport';
+export { default as ViewStudentReports } from './classes/ViewStudentReports';
+export { default as AssignReport } from './classes/AssignReport';
+export { default as EnrolledStudents } from './students/EnrolledStudents';
+export { default as CourseActivity } from './students/CourseAcitvity';
+export { default as Payroll } from './Payment/Payroll';
+export { default as BankDetails } from './Payment/BankDetails';
+export { default as ProfileSetting } from './setting/ProfileSetting';
+export { default as Chat } from './messaging/Chat';
+export { default as ManageAttachments } from './students/ManageAttachments';
+export { default as CreateMakeupRequest } from './classes/CreateMakeupRequest';

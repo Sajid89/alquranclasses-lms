@@ -1,0 +1,17 @@
+.main-wrapper {
+    .col-one-content {
+        color: white;
+
+        h1 {
+            font-weight: 600;
+            line-height: 1.2;
+            text-align: left;
+            padding-bottom: 30px;
+        }
+
+        .image-wrapper .image {
+            width: 220px;
+        }
+    }
+}
+
